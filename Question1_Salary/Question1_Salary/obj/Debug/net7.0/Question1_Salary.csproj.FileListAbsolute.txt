@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Question1_Salary\Question1_Salary\bin\Debug\net7.0\Question1_Salary.exe
+C:\Users\Administrator\source\repos\Question1_Salary\Question1_Salary\bin\Debug\net7.0\Question1_Salary.deps.json
+C:\Users\Administrator\source\repos\Question1_Salary\Question1_Salary\bin\Debug\net7.0\Question1_Salary.runtimeconfig.json
+C:\Users\Administrator\source\repos\Question1_Salary\Question1_Salary\bin\Debug\net7.0\Question1_Salary.dll
+C:\Users\Administrator\source\repos\Question1_Salary\Question1_Salary\bin\Debug\net7.0\Question1_Salary.pdb
+C:\Users\Administrator\source\repos\Question1_Salary\Question1_Salary\obj\Debug\net7.0\Question1_Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Question1_Salary\Question1_Salary\obj\Debug\net7.0\Question1_Salary.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Question1_Salary\Question1_Salary\obj\Debug\net7.0\Question1_Salary.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Question1_Salary\Question1_Salary\obj\Debug\net7.0\Question1_Salary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Question1_Salary\Question1_Salary\obj\Debug\net7.0\Question1_Salary.dll
+C:\Users\Administrator\source\repos\Question1_Salary\Question1_Salary\obj\Debug\net7.0\refint\Question1_Salary.dll
+C:\Users\Administrator\source\repos\Question1_Salary\Question1_Salary\obj\Debug\net7.0\Question1_Salary.pdb
+C:\Users\Administrator\source\repos\Question1_Salary\Question1_Salary\obj\Debug\net7.0\Question1_Salary.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Question1_Salary\Question1_Salary\obj\Debug\net7.0\ref\Question1_Salary.dll
