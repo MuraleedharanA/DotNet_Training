@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Day8\Calculator\bin\Debug\Calculator.dll
+C:\Users\Administrator\source\repos\Day8\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Administrator\source\repos\Day8\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Day8\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day8\Calculator\obj\Debug\Calculator.dll
+C:\Users\Administrator\source\repos\Day8\Calculator\obj\Debug\Calculator.pdb
