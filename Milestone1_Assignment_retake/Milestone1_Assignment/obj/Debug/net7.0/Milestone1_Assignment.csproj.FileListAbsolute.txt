@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Milestone1_Assignment\Milestone1_Assignment\bin\Debug\net7.0\Milestone1_Assignment.exe
+C:\Users\Administrator\source\repos\Milestone1_Assignment\Milestone1_Assignment\bin\Debug\net7.0\Milestone1_Assignment.deps.json
+C:\Users\Administrator\source\repos\Milestone1_Assignment\Milestone1_Assignment\bin\Debug\net7.0\Milestone1_Assignment.runtimeconfig.json
+C:\Users\Administrator\source\repos\Milestone1_Assignment\Milestone1_Assignment\bin\Debug\net7.0\Milestone1_Assignment.dll
+C:\Users\Administrator\source\repos\Milestone1_Assignment\Milestone1_Assignment\bin\Debug\net7.0\Milestone1_Assignment.pdb
+C:\Users\Administrator\source\repos\Milestone1_Assignment\Milestone1_Assignment\obj\Debug\net7.0\Milestone1_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Milestone1_Assignment\Milestone1_Assignment\obj\Debug\net7.0\Milestone1_Assignment.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Milestone1_Assignment\Milestone1_Assignment\obj\Debug\net7.0\Milestone1_Assignment.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Milestone1_Assignment\Milestone1_Assignment\obj\Debug\net7.0\Milestone1_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Milestone1_Assignment\Milestone1_Assignment\obj\Debug\net7.0\Milestone1_Assignment.dll
+C:\Users\Administrator\source\repos\Milestone1_Assignment\Milestone1_Assignment\obj\Debug\net7.0\refint\Milestone1_Assignment.dll
+C:\Users\Administrator\source\repos\Milestone1_Assignment\Milestone1_Assignment\obj\Debug\net7.0\Milestone1_Assignment.pdb
+C:\Users\Administrator\source\repos\Milestone1_Assignment\Milestone1_Assignment\obj\Debug\net7.0\Milestone1_Assignment.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Milestone1_Assignment\Milestone1_Assignment\obj\Debug\net7.0\ref\Milestone1_Assignment.dll
