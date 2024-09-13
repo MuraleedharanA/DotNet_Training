@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Assignments\Assignments\bin\Debug\net7.0\Assignments.exe
+C:\Users\Administrator\source\repos\Assignments\Assignments\bin\Debug\net7.0\Assignments.deps.json
+C:\Users\Administrator\source\repos\Assignments\Assignments\bin\Debug\net7.0\Assignments.runtimeconfig.json
+C:\Users\Administrator\source\repos\Assignments\Assignments\bin\Debug\net7.0\Assignments.dll
+C:\Users\Administrator\source\repos\Assignments\Assignments\bin\Debug\net7.0\Assignments.pdb
+C:\Users\Administrator\source\repos\Assignments\Assignments\obj\Debug\net7.0\Assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Assignments\Assignments\obj\Debug\net7.0\Assignments.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Assignments\Assignments\obj\Debug\net7.0\Assignments.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Assignments\Assignments\obj\Debug\net7.0\Assignments.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Assignments\Assignments\obj\Debug\net7.0\Assignments.dll
+C:\Users\Administrator\source\repos\Assignments\Assignments\obj\Debug\net7.0\refint\Assignments.dll
+C:\Users\Administrator\source\repos\Assignments\Assignments\obj\Debug\net7.0\Assignments.pdb
+C:\Users\Administrator\source\repos\Assignments\Assignments\obj\Debug\net7.0\Assignments.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Assignments\Assignments\obj\Debug\net7.0\ref\Assignments.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\AllPending\AllPending\bin\Debug\net7.0\AllPending.exe
+C:\Users\Administrator\source\repos\AllPending\AllPending\bin\Debug\net7.0\AllPending.deps.json
+C:\Users\Administrator\source\repos\AllPending\AllPending\bin\Debug\net7.0\AllPending.runtimeconfig.json
+C:\Users\Administrator\source\repos\AllPending\AllPending\bin\Debug\net7.0\AllPending.dll
+C:\Users\Administrator\source\repos\AllPending\AllPending\bin\Debug\net7.0\AllPending.pdb
+C:\Users\Administrator\source\repos\AllPending\AllPending\obj\Debug\net7.0\AllPending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\AllPending\AllPending\obj\Debug\net7.0\AllPending.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AllPending\AllPending\obj\Debug\net7.0\AllPending.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AllPending\AllPending\obj\Debug\net7.0\AllPending.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AllPending\AllPending\obj\Debug\net7.0\AllPending.dll
+C:\Users\Administrator\source\repos\AllPending\AllPending\obj\Debug\net7.0\refint\AllPending.dll
+C:\Users\Administrator\source\repos\AllPending\AllPending\obj\Debug\net7.0\AllPending.pdb
+C:\Users\Administrator\source\repos\AllPending\AllPending\obj\Debug\net7.0\AllPending.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\AllPending\AllPending\obj\Debug\net7.0\ref\AllPending.dll

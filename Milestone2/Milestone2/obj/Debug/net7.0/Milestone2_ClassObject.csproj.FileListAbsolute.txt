@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\bin\Debug\net7.0\Milestone2_ClassObject.exe
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\bin\Debug\net7.0\Milestone2_ClassObject.deps.json
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\bin\Debug\net7.0\Milestone2_ClassObject.runtimeconfig.json
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\bin\Debug\net7.0\Milestone2_ClassObject.dll
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\bin\Debug\net7.0\Milestone2_ClassObject.pdb
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\obj\Debug\net7.0\Milestone2_ClassObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\obj\Debug\net7.0\Milestone2_ClassObject.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\obj\Debug\net7.0\Milestone2_ClassObject.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\obj\Debug\net7.0\Milestone2_ClassObject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\obj\Debug\net7.0\Milestone2_ClassObject.dll
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\obj\Debug\net7.0\refint\Milestone2_ClassObject.dll
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\obj\Debug\net7.0\Milestone2_ClassObject.pdb
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\obj\Debug\net7.0\Milestone2_ClassObject.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\obj\Debug\net7.0\ref\Milestone2_ClassObject.dll
