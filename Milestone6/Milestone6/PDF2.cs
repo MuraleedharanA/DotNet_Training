@@ -10,7 +10,7 @@ namespace PdfReportGenerator
     {
         static void Main(string[] args)
         {
-            string csvFilePath = @"C:\path\to\your\data.csv"; // Update the path to your CSV file
+            string csvFilePath = @"data.csv"; 
             string pdfPath = @"SummaryReport.pdf";
 
             // Read CSV data
